@@ -1,0 +1,1 @@
+char rustc_testr(char left, char right);
