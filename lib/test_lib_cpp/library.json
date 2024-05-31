@@ -1,0 +1,9 @@
+{
+  "build": {
+    "flags":[
+      "-Llib",
+      "-Iinclude",
+      "-lrust_test_sample"
+    ]
+  }
+}
